@@ -1,0 +1,28 @@
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#questions p {
+    margin-bottom: 0;
+    margin-top: 8px;
+}
+
+#questions input {
+    width: 25px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+button {
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+    background-color: aqua;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
